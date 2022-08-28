@@ -38,7 +38,7 @@ const questions = [
   {
     type: "list",
     default: "MIT",
-    choices: ["MIT", "Apache", "ISC Licence", "GNU GPLv3", "GNU GPLv3"],
+    choices: ["MIT", "Apache", "ISC Licence", "GNU GPLv3"],
     message: "Choose a license for your application: ",
     name: "license",
   },
