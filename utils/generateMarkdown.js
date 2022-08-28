@@ -18,7 +18,7 @@ function renderLicenseLink(license) {
   if (license === "MIT") {
     return ` https://choosealicense.com/licenses/mit/`;
   } else if (license === "Apache") {
-    return `https://www.apache.org/licenses/LICENSE-2.0/`;
+    return `https://www.apache.org/licenses/`;
   } else if (license === "ISC Licence") {
     return `https://www.isc.org/licenses/`;
   } else if (license === "GNU GPLv3") {
