@@ -1,4 +1,4 @@
-# make me a README.md
+# make me a README-md
   ![badge](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
   ## Table of Contents
@@ -11,9 +11,9 @@
 - [Questions](#questions)
 
 ## Description
-  created a readme file
+  create a readme file
 ## Installation
-  npm installl
+  npm install
 ## Usage
   usage
 
@@ -23,7 +23,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
     
-https://www.apache.org/licenses/LICENSE-2.0/
+https://www.apache.org/licenses/
     
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
