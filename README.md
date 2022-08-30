@@ -2,7 +2,7 @@
 
 ## Description
 
-Displays questions and takes the user answers to auto generate a README.md file. The questions focus on the sections needed for a professional readme guide so, it will make it easier and quicker to generate a README.md file with relevant details for any software project. Developing this project was useful in learning how to use literal templates for more complex content, using inquirer API and learning more about README.md files and their uses.
+Displays questions and takes the user answers to auto generate a newREADME.md file. The questions focus on the sections needed for a professional README guide so, it will make it easier and quicker to generate a newREADME.md file with relevant details for any software project. Developing this project was useful in learning how to use literal templates for more complex content, using inquirer API and learning more about newREADME.md files and their uses.
 
 ## Table of Contents (Optional)
 
@@ -19,7 +19,7 @@ Use the command 'npm install' to install inquirer API
 
 ## Usage
 
-The following images show a step by step process to using the 'make me a README.md' project:
+The following images show a step by step process to using the 'make me a newREADME.md' project:
 Run command node index.js
 
 ![Step 1](./images/usage-step-1.png)
