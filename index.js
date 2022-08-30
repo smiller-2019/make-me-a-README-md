@@ -4,6 +4,7 @@ const generateMarkdown = require("./utils/generateMarkdown.js");
 const fs = require("fs");
 
 // TODO: Create an array of questions for user input
+// referenced https://github.com/Kay0s/Create-ReadMe-With-Inquirer-NPM
 const questions = [
   {
     type: "input",
@@ -70,6 +71,7 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
+// referenced https://pakstech.com/blog/inquirer-js/
 function init() {
   inquirer
     .prompt(questions)
