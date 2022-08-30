@@ -40,7 +40,7 @@ After entering the answer to the last question, then press enter:
 
 ![Step 5](./images/usage-step-5.png)
 
-[Walkthrough video] (https://drive.google.com/file/d/1VqZX4PE7AFxbgvT-k3eWlDDr9LRhhk8j/view?usp=sharing)
+[Walkthrough video](https://drive.google.com/file/d/1VqZX4PE7AFxbgvT-k3eWlDDr9LRhhk8j/view?usp=sharing)
 
 ## License
 
