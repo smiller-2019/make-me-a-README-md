@@ -17,22 +17,13 @@ const questions = [
   },
   {
     type: "input",
-    message: "What is the name of your github username? ",
-    name: "username",
-  },
-  {
-    type: "input",
-    message: "What is your email address? ",
-    name: "email",
-  },
-  {
-    type: "input",
+    default: "In the terminal or bash enter 'npm install'",
     message: "Describe how to install your project dependencies: ",
     name: "installation",
   },
   {
     type: "input",
-    message: "Describe the usage of your application?",
+    message: "How to use this application:",
     name: "usage",
   },
   {
@@ -44,8 +35,14 @@ const questions = [
   },
   {
     type: "input",
-    default: "no contributors",
-    message: "Explain how to contribute to your application: ",
+    default: ` Please fork the repo and create a pull request as follows: 
+    1. Fork the Project
+    2. Create your Feature Branch.
+    3. Commit your Changes.
+    4. Push to the Branch.
+    5. Open a Pull Request 
+    Open a Github issue with the tag 'improvements'`,
+    message: "How to contribute: ",
     name: "contributing",
   },
   {
@@ -55,18 +52,20 @@ const questions = [
   },
   {
     type: "input",
-    default: "If there are any questions then you can contact me via:",
-    message: "Enter introduction for questions section:  ",
-    name: "questions",
+    message: "What is the name of your github username? ",
+    name: "username",
+  },
+  {
+    type: "input",
+    message: "What is your email address? ",
+    name: "email",
   },
 ];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-  // generateMarkdown(data);
-
   fs.writeFile(fileName, data, (error) =>
-    error ? console.error(error) : console.log(data + " Success!")
+    error ? console.error(error) : console.log(" Success!")
   );
 }
 
@@ -79,11 +78,11 @@ function init() {
     })
     .catch((error) => {
       if (error.isTtyError) {
-        // Prompt couldn't be rendered in the current environment
-        console.log("Prompt couldn't be rendered in the current environment");
+        // Prompt could not process the data
+        console.log("Prompt could not process the data!");
       } else {
-        // Something else went wrong
-        console.log("Something else went wrong");
+        // Something went wrong
+        console.log("Something went wrong!");
       }
     });
 }

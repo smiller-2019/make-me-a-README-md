@@ -126,7 +126,7 @@ GitHub Profile of Contributors:[${data.contributing}] (https://github.com/${
 ## Tests
   ${data.tests}
 ## Questions
- ${data.questions}
+If there are any questions then you can contact me via:\n
    Email: ${data.email}\n
    GitHub Profile: [${data.username}](https://github.com/${data.username}/)\n
    GitHub Repository: [${data.username}](https://github.com/${data.username}/)\n

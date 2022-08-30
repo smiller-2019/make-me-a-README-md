@@ -1,5 +1,5 @@
-# make me a README-md
-  ![badge](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+# Make a a README.md
+  ![badge](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
   ## Table of Contents
 - [Description](#description)
@@ -11,32 +11,42 @@
 - [Questions](#questions)
 
 ## Description
-  create a readme file
+  Create a readme.md file by answering questions focused on sections of a professional readme including a table of contents and question section.
 ## Installation
-  npm install
+  In the terminal or bash enter 'npm install'
 ## Usage
-  usage
+  When installed, run the application by entering node index.js. Several questions will display for the user to answer. Some questions have default answers. Just press the enter key to accept the defaults  or override by typing in an answer.
 
 ## License 
-Copyright 2022 smiller-2019
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-    
-https://www.apache.org/licenses/
-    
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. https://fsf.org/
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+https://www.gnu.org/licenses/
+  
 ## Contributing
-GitHub Profile of Contributors:[no contributors] (https://github.com/no contributors/)
+GitHub Profile of Contributors:[ Please fork the repo and create a pull request as follows: 
+    1. Fork the Project
+    2. Create your Feature Branch.
+    3. Commit your Changes.
+    4. Push to the Branch.
+    5. Open a Pull Request 
+    Open a Github issue with the tag 'improvements'] (https://github.com/ Please fork the repo and create a pull request as follows: 
+    1. Fork the Project
+    2. Create your Feature Branch.
+    3. Commit your Changes.
+    4. Push to the Branch.
+    5. Open a Pull Request 
+    Open a Github issue with the tag 'improvements'/)
 ## Tests
-  test
+  Use an application to run the README.md file once created for example, Atom by pressing Cntrl Shift and 'm' or push to Github. If the prompts are processed correctly there will a a 'Success!' message displayed in the terminal or bash. COh. Otherise there should be a message saying 'Something went wrong!' or prompt s good not be processed" .
 ## Questions
- If there are any questions then you can contact me via:
-   Email: sjm_02@hotmail.com
+If there are any questions then you can contact me via:
+
+   Email: my@email.com
 
    GitHub Profile: [smiller-2019](https://github.com/smiller-2019/)
 
