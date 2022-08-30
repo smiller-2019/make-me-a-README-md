@@ -6,8 +6,6 @@ Displays questions and takes the user answers to auto generate a README.md file.
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -41,6 +39,8 @@ Continue to answer questions when prompted to do so or press enter to accept the
 After entering the answer to the last question, then press enter:
 
 ![Step 5](./images/usage-step-5.png)
+
+[Walkthrough video] (https://drive.google.com/file/d/1VqZX4PE7AFxbgvT-k3eWlDDr9LRhhk8j/view?usp=sharing)
 
 ## License
 

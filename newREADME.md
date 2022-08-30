@@ -1,5 +1,5 @@
-# Make a a README.md
-  ![badge](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# 
+  ![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Table of Contents
 - [Description](#description)
@@ -11,22 +11,36 @@
 - [Questions](#questions)
 
 ## Description
-  Create a readme.md file by answering questions focused on sections of a professional readme including a table of contents and question section.
+  
 ## Installation
   In the terminal or bash enter 'npm install'
 ## Usage
-  When installed, run the application by entering node index.js. Several questions will display for the user to answer. Some questions have default answers. Just press the enter key to accept the defaults  or override by typing in an answer.
+  
 
 ## License 
-GNU GENERAL PUBLIC LICENSE
-Version 3, 29 June 2007
+MIT License
 
-Copyright (C) 2007 Free Software Foundation, Inc. https://fsf.org/
-Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed.
+Copyright (c) 2022 
 
-https://www.gnu.org/licenses/
-  
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. 
+
+ https://choosealicense.com/licenses/mit/
 ## Contributing
 GitHub Profile of Contributors:[ Please fork the repo and create a pull request as follows: 
     1. Fork the Project
@@ -42,13 +56,13 @@ GitHub Profile of Contributors:[ Please fork the repo and create a pull request 
     5. Open a Pull Request 
     Open a Github issue with the tag 'improvements'/)
 ## Tests
-  Use an application to run the README.md file once created for example, Atom by pressing Cntrl Shift and 'm' or push to Github. If the prompts are processed correctly there will a a 'Success!' message displayed in the terminal or bash. COh. Otherise there should be a message saying 'Something went wrong!' or prompt s good not be processed" .
+  
 ## Questions
 If there are any questions then you can contact me via:
 
-   Email: my@email.com
+   Email: 
 
-   GitHub Profile: [smiller-2019](https://github.com/smiller-2019/)
+   GitHub Profile: [](https://github.com//)
 
-   GitHub Repository: [smiller-2019](https://github.com/smiller-2019/)
+   GitHub Repository: [](https://github.com//)
 
