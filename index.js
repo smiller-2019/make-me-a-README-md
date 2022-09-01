@@ -30,7 +30,7 @@ const questions = [
   {
     type: "list",
     default: "MIT",
-    choices: ["MIT", "Apache", "ISC Licence", "GNU GPLv3"],
+    choices: ["MIT", "Apache", "ISC Licence", "GNU GPLv3", "None"],
     message: "Choose a license for your application: ",
     name: "license",
   },
@@ -76,7 +76,7 @@ function init() {
   inquirer
     .prompt(questions)
     .then((responses) => {
-      writeToFile("newREADME.md", generateMarkdown(responses));
+      writeToFile("./dist/README.md", generateMarkdown(responses));
     })
     .catch((error) => {
       if (error.isTtyError) {

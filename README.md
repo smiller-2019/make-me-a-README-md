@@ -2,7 +2,7 @@
 
 ## Description
 
-Displays questions and takes the user answers to auto generate a newREADME.md file. The questions focus on the sections needed for a professional README guide so, it will make it easier and quicker to generate a newREADME.md file with relevant details for any software project. Developing this project was useful in learning how to use literal templates for more complex content, using inquirer API and learning more about newREADME.md files and their uses.
+Displays questions and takes the user answers to auto generate a README.md file. The questions focus on the sections needed for a professional README guide so, it will make it easier and quicker to generate a README.md file with relevant details for any software project. Developing this project was useful in learning how to use literal templates for more complex content, using inquirer API and learning more about README.md files and their uses.
 
 ## Table of Contents (Optional)
 
@@ -39,6 +39,10 @@ Continue to answer questions when prompted to do so or press enter to accept the
 After entering the answer to the last question, then press enter:
 
 ![Step 5](./images/usage-step-5.png)
+
+Success:
+
+![Step 6](./images/usage-step-6.png)
 
 [Walkthrough video](https://drive.google.com/file/d/1VqZX4PE7AFxbgvT-k3eWlDDr9LRhhk8j/view?usp=sharing)
 
